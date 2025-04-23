@@ -38,7 +38,7 @@ Make sure you have the following installed:
 2. Navigate to the directory where you want to store your project.
 3. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/yourusername/portfolio-with-backend.git
+   git clone https://github.com/HebatallahTha/FUTURE_FS_01.git
 Setting Up the Backend
 After cloning the repository, navigate into the project folder:
 
@@ -135,9 +135,4 @@ Edit
 8. **Contributing**: How others can contribute to the project.
 9. **License**: Information on the project license (MIT).
 
-### Next Steps
-1. Copy and paste this into a `README.md` file in your project directory.
-2. Update the `git clone` URL to reflect your actual GitHub repository link.
-3. You can also consider adding more details like specific instructions for the contact form's backend integration in the future.
 
-Let me know if you'd like to add or modify anything!
