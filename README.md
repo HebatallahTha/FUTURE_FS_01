@@ -38,7 +38,7 @@ Make sure you have the following installed:
 2. Navigate to the directory where you want to store your project.
 3. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/HebatallahTha/FUTURE_FS_01.git
+   git clone https://github.com/yourusername/FUTURE_FS_01.git
 Setting Up the Backend
 After cloning the repository, navigate into the project folder:
 
